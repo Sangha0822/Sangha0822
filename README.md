@@ -1,49 +1,54 @@
-# Sangha Jeon
+# ✦ Sangha Jeon | CS @ UC Riverside
 
-Computer Science @ UC Riverside | Full-Stack & Machine Learning
-
----
-
-### 🛠️ Tech Stack & Tools
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
++ Computer Science Student focusing on ML & Systems
++ Building high-performance Full-Stack and Embedded applications
 
 ---
 
-### 🌟 Featured Engineering Projects
+## 💻 Technical Skills
 
-#### 🧠 Deep Batch Active Learning (BADGE Optimization)
-*Acceleration and Implementation of Diverse, Uncertain Gradient Lower Bounds*
-* **The Challenge:** BADGE is high-performing but computationally expensive for large datasets.
-* **The Solution:** Implemented **Subset Sampling** and **Proxy-Based Selection**, reducing query time by **over 85%** while maintaining final test accuracy.
-* **Technical Stack:** PyTorch, Python, MLP Architectures.
-
-#### 🕹️ Hardware-Integrated Tetris (Embedded C++)
-*Full-Cycle Hardware & Software Development*
-* **The Build:** A real-time Tetris engine running on an ATmega328P with a 4x MAX7219 Dot Matrix display.
-* **The Logic:** Custom software architecture for collision detection, IR remote interrupt handling, and audio feedback via a passive buzzer.
-* **Technical Stack:** C/C++, Arduino AVR, SPI Communication, Hardware Interfacing.
+| Category | Tools |
+| :--- | :--- |
+| **Languages** | ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
+| **ML & Backend** | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) |
+| **Environments** | ![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=anaconda&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Venv](https://img.shields.io/badge/Venv-3776AB?style=flat-square&logo=python&logoColor=white) |
+| **Hardware** | ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white) ![Embedded C](https://img.shields.io/badge/Embedded%20C-00599C?style=flat-square) |
 
 ---
 
-### 🚀 Current Focus
-* 🥘 **Food Tracking API:** Building a high-performance backend with **FastAPI** to manage dietary data efficiently.
-* 🤖 **Local LLMs:** Experimenting with **Ollama** and quantized models for local inference.
+## 🚀 Featured Projects
 
-### ⚽ Beyond the Code
-* **Fitness:** Dedicated to bodybuilding (PPL split)—focusing on discipline and data-driven progress.
-* **Futsal:** Competitive indoor soccer player. Usually found sprinting down the **Right Wing**.
-* **Winter Sports:** Snowboarding in terrain parks in Big Bear during the season.
+<details>
+<summary><b>🧠 Deep Batch Active Learning (BADGE Optimization)</b></summary>
+<br>
+Implemented the BADGE algorithm to replicate research on the MNIST dataset using <b>PyTorch</b>. Developed <b>Subset Sampling</b> and <b>Proxy-Based Selection</b> optimizations, successfully reducing query latency by <b>85-90%</b> while maintaining accuracy.
+<br>
+<b>Environment:</b> Anaconda
+</details>
+
+<details>
+<summary><b>🕹️ Hardware-Integrated Tetris (Embedded C++)</b></summary>
+<br>
+Developed a real-time Tetris engine on an <b>ATmega328P</b> with a 4x MAX7219 Dot Matrix. Managed interrupt handling for <b>IR remote control</b> and integrated a passive buzzer for synchronized audio feedback.
+</details>
+
+<details>
+<summary><b>🥘 Full-Stack Food Entry Manager</b></summary>
+<br>
+Current project building a high-performance API with <b>FastAPI</b> and a vanilla JS frontend to manage and display dietary database entries.
+<br>
+<b>Environment:</b> Python <code>venv</code>
+</details>
 
 ---
 
-### 📊 GitHub Insights
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sangha0822&show_icons=true&theme=tokyonight" alt="Sangha's Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sangha0822&layout=compact&theme=tokyonight" alt="Top Langs" height="170" />
-</p>
+## ⚽ Beyond the Code
+
+* **Futsal:** Competitive indoor soccer player. I play the **Right Wing**.
+* **Bodybuilding:** Disciplined training via **PPL split**.
+* **Winter Sports:** Snowboarding and skiing.
+
+---
+
+### 📊 GitHub Activity
+![Stats](https://github-readme-stats.vercel.app/api?username=Sangha0822&show_icons=true&theme=tokyonight)
