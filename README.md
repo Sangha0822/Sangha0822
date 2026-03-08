@@ -1,4 +1,10 @@
 <p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7AA2F7&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Sangha+Jeon!;CS+at+UC+Riverside;ML+%2B+Full-Stack+Engineer;Gym+Rat+%2B+Futsal+Winger" alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Sangha%20Jeon&fontSize=70&animation=fadeIn&fontAlignY=38" />
 </p>
 
