@@ -4,7 +4,7 @@
   </a>
 </p>
 
-# ✦ Sangha Jeon | CS @ UC Riverside
+# ✦ Sangha Jeon | CE @ UC Riverside
 
 + **Computer Science Student** focusing on ML & Systems
 + **Building** high-performance Full-Stack and Embedded applications
@@ -60,5 +60,5 @@ Current project building a high-performance API with <b>FastAPI</b> and a vanill
 ### 📊 GitHub Activity
 ![Top Langs](https://github-readme-stats-beta-taupe-98.vercel.app/api/top-langs/?username=Sangha0822&layout=compact&theme=tokyonight&hide=verilog,c,makefile,cmake,html,css)
 ![Stats](https://github-readme-stats-beta-taupe-98.vercel.app/api?username=Sangha0822&show_icons=true&theme=tokyonight&hide_rank=true&cache_seconds=1800)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sanghajeon/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanghajeon/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sjeon065@ucr.edu)
