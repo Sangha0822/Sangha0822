@@ -22,24 +22,39 @@
 
 ---
 
+---
+
 ## 🚀 Featured Projects
 
 <details>
-<summary><b>Deep Batch Active Learning (BADGE Optimization)</b></summary>
+<summary><b>🧠 Deep Batch Active Learning (BADGE Optimization)</b></summary>
 <br>
-Optimized research-level active learning algorithms using <b>PyTorch</b> and <b>Anaconda</b>. Developed Subset Sampling techniques that reduced query latency by 85% without sacrificing accuracy.
+Implemented the BADGE algorithm to replicate research on the MNIST dataset using <b>PyTorch</b>. Developed <b>Subset Sampling</b> and <b>Proxy-Based Selection</b> optimizations, successfully reducing query latency by <b>85-90%</b> while maintaining accuracy.
+<br>
+<b>Environment:</b> Anaconda
 </details>
 
 <details>
-<summary><b>Hardware-Integrated Tetris (Embedded C++)</b></summary>
+<summary><b>🕹️ Hardware-Integrated Tetris (Embedded C++)</b></summary>
 <br>
-Built a real-time Tetris engine on an <b>ATmega328P</b>. Implemented low-level drivers for IR remote interrupts and MAX7219 display communication.
+Developed a real-time Tetris engine on an <b>ATmega328P</b> with a 4x MAX7219 Dot Matrix. Managed interrupt handling for <b>IR remote control</b> and integrated a passive buzzer for synchronized audio feedback.
 </details>
 
+<details>
+<summary><b>🥘 Full-Stack Food Entry Manager</b></summary>
+<br>
+Current project building a high-performance API with <b>FastAPI</b> and a vanilla JS frontend to manage and display dietary database entries.
+<br>
+<b>Environment:</b> Python <code>venv</code>
+</details>
+
+---
+
 ## ⚽ Beyond the Code
-* **Futsal:** Competitive indoor soccer player | Right Wing.
-* **Bodybuilding:** Disciplined training via PPL split.
-* **Winter Sports:** Snowboarding in a terrain park.
+
+* **Futsal:** Competitive indoor soccer player. I play the **Right Wing**.
+* **Bodybuilding:** Disciplined training via **PPL split**.
+* **Winter Sports:** Snowboarding in a **terrain park**.
 
 ---
 
