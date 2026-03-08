@@ -28,16 +28,15 @@
 
 <details>
 <summary><b>🧠 Deep Batch Active Learning (BADGE Optimization)</b></summary>
-<br>
-Implemented the BADGE algorithm to replicate research on the MNIST dataset using <b>PyTorch</b>. Developed <b>Subset Sampling</b> and <b>Proxy-Based Selection</b> optimizations, successfully reducing query latency by <b>85-90%</b> while maintaining accuracy.
-<br>
-<b>Environment:</b> Anaconda
+* Research-level implementation using <b>PyTorch</b> and <b>Anaconda</b>.
+* Developed Subset Sampling and Proxy-Based Selection to reduce query latency by 85%.
+* Focus: Algorithm efficiency and label-efficient deep learning.
 </details>
 
 <details>
-<summary><b>🕹️ Hardware-Integrated Tetris (Embedded C++)</b></summary>
-<br>
-Developed a real-time Tetris engine on an <b>ATmega328P</b> with a 4x MAX7219 Dot Matrix. Managed interrupt handling for <b>IR remote control</b> and integrated a passive buzzer for synchronized audio feedback.
+<summary><b>🕹️ Object-Oriented Tetris Engine (C++)</b></summary>
+* Designed a real-time game engine focusing on <b>collision detection logic</b> and <b>state management</b>.
+* Implemented custom software abstractions for hardware interfacing and interrupt-driven input handling.
 </details>
 
 <details>
@@ -59,6 +58,7 @@ Current project building a high-performance API with <b>FastAPI</b> and a vanill
 ---
 
 ### 📊 GitHub Activity
+![Top Langs](https://github-readme-stats-beta-taupe-98.vercel.app/api/top-langs/?username=Sangha0822&layout=compact&theme=tokyonight&hide=verilog,c,makefile,cmake,html,css)
 ![Stats](https://github-readme-stats-beta-taupe-98.vercel.app/api?username=Sangha0822&show_icons=true&theme=tokyonight&hide_rank=true&cache_seconds=1800)
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sangha0822&theme=tokyonight)
 ![Langs](https://github-readme-stats-beta-taupe-98.vercel.app/api/top-langs/?username=Sangha0822&layout=compact&theme=tokyonight&hide=makefile,cmake&cache_seconds=1800)
