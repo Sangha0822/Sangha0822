@@ -55,5 +55,5 @@ Current project building a high-performance API with <b>FastAPI</b> and a vanill
 ---
 
 ### 📊 GitHub Activity
-![Stats](https://github-readme-stats.vercel.app/api?username=Sangha0822&show_icons=true&theme=tokyonight&cache_seconds=1800)
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sangha0822&layout=compact&theme=tokyonight&cache_seconds=1800)
+![Stats](https://github-readme-stats-beta-taupe-98.vercel.app/api?username=Sangha0822&show_icons=true&theme=tokyonight&cache_seconds=1800)
+![Langs](https://github-readme-stats-beta-taupe-98.vercel.app/api/top-langs/?username=Sangha0822&layout=compact&theme=tokyonight&cache_seconds=1800)
